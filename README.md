@@ -10,8 +10,7 @@ Untuk mencegah hal ini semakin parah, manajer departemen HR meminta bantuan divi
 
 ### Permasalahan Bisnis
 
-1. Belum diketahui secara pasti faktor-faktor utama penyebab karyawan keluar dari perusahaan.
-2. Menyediakan alat business dashboard untuk memudahkan HR untuk menganilisis faktor faktor penyebab attrition.
+Jaya Jaya Maju menghadapi tingkat attrition rate karyawan yang cukup tinggi, yakni lebih dari 10%. Tingginya angka tersebut berpotensi mengganggu stabilitas operasional perusahaan, meningkatkan biaya rekrutmen dan pelatihan, serta menurunkan produktivitas secara keseluruhan. Namun, perusahaan masih belum memahami secara pasti faktor-faktor utama penyebab karyawan keluar dari perusahaan.
 
 ### Cakupan Proyek
 
